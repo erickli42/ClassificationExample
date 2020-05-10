@@ -1,0 +1,50 @@
+apple
+apple juice
+asparagus
+aubergine
+avocado
+banana
+cabbage
+cantaloupe
+carrot
+cucumber
+galia
+garlic
+ginger
+grapefruit
+grapefruit juice
+green bell pepper
+honeydew
+kiwi
+leek
+lemon
+lime
+mango
+milk
+mushroom
+nectarine
+oatghurt
+onion
+orange
+orange bell pepper
+orange juice
+papya
+passion fruit
+peach
+pear
+pineapple
+plum
+pomegranate
+potato
+red beet
+red bell pepper
+satsumas
+sour cream
+sour milk
+soy milk
+soyghurt
+tomato
+watermelon
+yellow bell pepper
+yoghurt
+zucchini
